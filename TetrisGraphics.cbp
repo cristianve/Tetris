@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="TetrisGraphics" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="Program/TestGraphics" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="Program" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="extlibs/libpng" />
+					<Add directory="extlibs/SDL/include" />
+				</Compiler>
+				<Linker>
+					<Add library="extlibs/libpng.a" />
+					<Add library="extlibs/libSDL2_image.a" />
+					<Add library="extlibs/SDL2.lib" />
+					<Add library="extlibs/libz.a" />
+					<Add directory="extlibs" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/TestGraphics" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="GestioResultats.cpp" />
+		<Unit filename="GestioResultats.h" />
+		<Unit filename="Joc.cpp" />
+		<Unit filename="Joc.h" />
+		<Unit filename="Menu.cpp" />
+		<Unit filename="Menu.h" />
+		<Unit filename="Principal.cpp" />
+		<Unit filename="TetrisGraphics.cbp" />
+		<Unit filename="TetrisGraphics.depend" />
+		<Unit filename="TetrisGraphics.layout" />
+		<Unit filename="lib/debug.cpp" />
+		<Unit filename="lib/debug.h" />
+		<Unit filename="lib/error.h" />
+		<Unit filename="lib/image_png.cpp" />
+		<Unit filename="lib/image_png.h" />
+		<Unit filename="lib/keyboard.cpp" />
+		<Unit filename="lib/keyboard.h" />
+		<Unit filename="lib/keyboard_sdl.h" />
+		<Unit filename="lib/libreria.h" />
+		<Unit filename="lib/mouse.cpp" />
+		<Unit filename="lib/mouse.h" />
+		<Unit filename="lib/sound.cpp" />
+		<Unit filename="lib/sound.h" />
+		<Unit filename="lib/sprites.cpp" />
+		<Unit filename="lib/sprites.h" />
+		<Unit filename="lib/stb_vorbis.cpp" />
+		<Unit filename="lib/stb_vorbis.h" />
+		<Unit filename="lib/video.cpp" />
+		<Unit filename="lib/video.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

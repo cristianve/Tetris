@@ -1,0 +1,4308 @@
+# depslib dependency file v1.0
+1452880344 source:d:\usuaris\ernest\owncloud\mp\docencia-mp\practiques\testgraphicsnovallibreria - copia\joc.cpp
+	"Joc.h"
+	"lib/libreria.h"
+	<cstdlib>
+
+1427353198 d:\usuaris\ernest\owncloud\mp\docencia-mp\practiques\testgraphicsnovallibreria - copia\joc.h
+	<stdio.h>
+	<time.h>
+
+1427017208 d:\usuaris\ernest\owncloud\mp\docencia-mp\practiques\testgraphicsnovallibreria - copia\lib\libreria.h
+	"keyboard.h"
+	"mouse.h"
+	"sprites.h"
+	"video.h"
+	"sound.h"
+	<cstring>
+
+1425989384 d:\usuaris\ernest\owncloud\mp\docencia-mp\practiques\testgraphicsnovallibreria - copia\lib\keyboard.h
+	<SDL.h>
+	"keyboard_sdl.h"
+
+1451736652 d:\usuaris\ernest\owncloud\mp\docencia-mp\practiques\testgraphicsnovallibreria - copia\extlibs\sdl\include\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\usuaris\ernest\owncloud\mp\docencia-mp\practiques\testgraphicsnovallibreria - copia\extlibs\sdl\include\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\usuaris\ernest\owncloud\mp\docencia-mp\practiques\testgraphicsnovallibreria - copia\extlibs\sdl\include\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<iconv.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1451736652 d:\usuaris\ernest\owncloud\mp\docencia-mp\practiques\testgraphicsnovallibreria - copia\extlibs\sdl\include\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_premake.h"
+	"SDL_config_windows.h"
+	"SDL_config_winrt.h"
+	"SDL_config_macosx.h"
+	"SDL_config_iphoneos.h"
+	"SDL_config_android.h"
+	"SDL_config_psp.h"
+	"SDL_config_minimal.h"
+
+1451736654 d:\usuaris\ernest\owncloud\mp\docencia-mp\practiques\testgraphicsnovallibreria - copia\extlibs\sdl\include\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\usuaris\ernest\owncloud\mp\docencia-mp\practiques\testgraphicsnovallibreria - copia\extlibs\sdl\include\begin_code.h
+
+1451736654 d:\usuaris\ernest\owncloud\mp\docencia-mp\practiques\testgraphicsnovallibreria - copia\extlibs\sdl\include\close_code.h
+
+1451736652 d:\usuaris\ernest\owncloud\mp\docencia-mp\practiques\testgraphicsnovallibreria - copia\extlibs\sdl\include\sdl_config_windows.h
+	"SDL_platform.h"
+
+1451736652 d:\usuaris\ernest\owncloud\mp\docencia-mp\practiques\testgraphicsnovallibreria - copia\extlibs\sdl\include\sdl_config_winrt.h
+	"SDL_platform.h"
+	<sdkddkver.h>
+
+1451736652 d:\usuaris\ernest\owncloud\mp\docencia-mp\practiques\testgraphicsnovallibreria - copia\extlibs\sdl\include\sdl_config_macosx.h
+	"SDL_platform.h"
+	<AvailabilityMacros.h>
+
+1451736652 d:\usuaris\ernest\owncloud\mp\docencia-mp\practiques\testgraphicsnovallibreria - copia\extlibs\sdl\include\sdl_config_iphoneos.h
+	"SDL_platform.h"
+
+1451736652 d:\usuaris\ernest\owncloud\mp\docencia-mp\practiques\testgraphicsnovallibreria - copia\extlibs\sdl\include\sdl_config_android.h
+	"SDL_platform.h"
+	<stdarg.h>
+
+1451736652 d:\usuaris\ernest\owncloud\mp\docencia-mp\practiques\testgraphicsnovallibreria - copia\extlibs\sdl\include\sdl_config_psp.h
+	"SDL_platform.h"
+
+1451736652 d:\usuaris\ernest\owncloud\mp\docencia-mp\practiques\testgraphicsnovallibreria - copia\extlibs\sdl\include\sdl_config_minimal.h
+	"SDL_platform.h"
+
+1451736652 d:\usuaris\ernest\owncloud\mp\docencia-mp\practiques\testgraphicsnovallibreria - copia\extlibs\sdl\include\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1451736652 d:\usuaris\ernest\owncloud\mp\docencia-mp\practiques\testgraphicsnovallibreria - copia\extlibs\sdl\include\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1451736652 d:\usuaris\ernest\owncloud\mp\docencia-mp\practiques\testgraphicsnovallibreria - copia\extlibs\sdl\include\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736652 d:\usuaris\ernest\owncloud\mp\docencia-mp\practiques\testgraphicsnovallibreria - copia\extlibs\sdl\include\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736652 d:\usuaris\ernest\owncloud\mp\docencia-mp\practiques\testgraphicsnovallibreria - copia\extlibs\sdl\include\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\usuaris\ernest\owncloud\mp\docencia-mp\practiques\testgraphicsnovallibreria - copia\extlibs\sdl\include\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\usuaris\ernest\owncloud\mp\docencia-mp\practiques\testgraphicsnovallibreria - copia\extlibs\sdl\include\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1451736654 d:\usuaris\ernest\owncloud\mp\docencia-mp\practiques\testgraphicsnovallibreria - copia\extlibs\sdl\include\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736652 d:\usuaris\ernest\owncloud\mp\docencia-mp\practiques\testgraphicsnovallibreria - copia\extlibs\sdl\include\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736652 d:\usuaris\ernest\owncloud\mp\docencia-mp\practiques\testgraphicsnovallibreria - copia\extlibs\sdl\include\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1451967114 d:\usuaris\ernest\owncloud\mp\docencia-mp\practiques\testgraphicsnovallibreria - copia\extlibs\sdl\include\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1452095010 d:\usuaris\ernest\owncloud\mp\docencia-mp\practiques\testgraphicsnovallibreria - copia\extlibs\sdl\include\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\usuaris\ernest\owncloud\mp\docencia-mp\practiques\testgraphicsnovallibreria - copia\extlibs\sdl\include\sdl_pixels.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\usuaris\ernest\owncloud\mp\docencia-mp\practiques\testgraphicsnovallibreria - copia\extlibs\sdl\include\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\usuaris\ernest\owncloud\mp\docencia-mp\practiques\testgraphicsnovallibreria - copia\extlibs\sdl\include\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736652 d:\usuaris\ernest\owncloud\mp\docencia-mp\practiques\testgraphicsnovallibreria - copia\extlibs\sdl\include\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\usuaris\ernest\owncloud\mp\docencia-mp\practiques\testgraphicsnovallibreria - copia\extlibs\sdl\include\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\usuaris\ernest\owncloud\mp\docencia-mp\practiques\testgraphicsnovallibreria - copia\extlibs\sdl\include\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1451736654 d:\usuaris\ernest\owncloud\mp\docencia-mp\practiques\testgraphicsnovallibreria - copia\extlibs\sdl\include\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1451736654 d:\usuaris\ernest\owncloud\mp\docencia-mp\practiques\testgraphicsnovallibreria - copia\extlibs\sdl\include\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736652 d:\usuaris\ernest\owncloud\mp\docencia-mp\practiques\testgraphicsnovallibreria - copia\extlibs\sdl\include\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736652 d:\usuaris\ernest\owncloud\mp\docencia-mp\practiques\testgraphicsnovallibreria - copia\extlibs\sdl\include\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\usuaris\ernest\owncloud\mp\docencia-mp\practiques\testgraphicsnovallibreria - copia\extlibs\sdl\include\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1451736652 d:\usuaris\ernest\owncloud\mp\docencia-mp\practiques\testgraphicsnovallibreria - copia\extlibs\sdl\include\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\usuaris\ernest\owncloud\mp\docencia-mp\practiques\testgraphicsnovallibreria - copia\extlibs\sdl\include\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736652 d:\usuaris\ernest\owncloud\mp\docencia-mp\practiques\testgraphicsnovallibreria - copia\extlibs\sdl\include\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736652 d:\usuaris\ernest\owncloud\mp\docencia-mp\practiques\testgraphicsnovallibreria - copia\extlibs\sdl\include\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736652 d:\usuaris\ernest\owncloud\mp\docencia-mp\practiques\testgraphicsnovallibreria - copia\extlibs\sdl\include\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\usuaris\ernest\owncloud\mp\docencia-mp\practiques\testgraphicsnovallibreria - copia\extlibs\sdl\include\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\usuaris\ernest\owncloud\mp\docencia-mp\practiques\testgraphicsnovallibreria - copia\extlibs\sdl\include\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\usuaris\ernest\owncloud\mp\docencia-mp\practiques\testgraphicsnovallibreria - copia\extlibs\sdl\include\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\usuaris\ernest\owncloud\mp\docencia-mp\practiques\testgraphicsnovallibreria - copia\extlibs\sdl\include\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1452174728 d:\usuaris\ernest\owncloud\mp\docencia-mp\practiques\testgraphicsnovallibreria - copia\extlibs\sdl\include\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\usuaris\ernest\owncloud\mp\docencia-mp\practiques\testgraphicsnovallibreria - copia\extlibs\sdl\include\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\usuaris\ernest\owncloud\mp\docencia-mp\practiques\testgraphicsnovallibreria - copia\extlibs\sdl\include\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\usuaris\ernest\owncloud\mp\docencia-mp\practiques\testgraphicsnovallibreria - copia\extlibs\sdl\include\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1422964674 d:\usuaris\ernest\owncloud\mp\docencia-mp\practiques\testgraphicsnovallibreria - copia\lib\keyboard_sdl.h
+	"SDL.h"
+
+1425989340 d:\usuaris\ernest\owncloud\mp\docencia-mp\practiques\testgraphicsnovallibreria - copia\lib\mouse.h
+
+1452791114 d:\usuaris\ernest\owncloud\mp\docencia-mp\practiques\testgraphicsnovallibreria - copia\lib\sprites.h
+	<SDL.h>
+	<SDL_image.h>
+
+1451767948 d:\usuaris\ernest\owncloud\mp\docencia-mp\practiques\testgraphicsnovallibreria - copia\extlibs\sdl\include\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1427318266 d:\usuaris\ernest\owncloud\mp\docencia-mp\practiques\testgraphicsnovallibreria - copia\lib\video.h
+	<SDL.h>
+
+1427319670 d:\usuaris\ernest\owncloud\mp\docencia-mp\practiques\testgraphicsnovallibreria - copia\lib\sound.h
+	"stb_vorbis.h"
+
+1422964674 d:\usuaris\ernest\owncloud\mp\docencia-mp\practiques\testgraphicsnovallibreria - copia\lib\stb_vorbis.h
+	<stdio.h>
+
+1427016760 source:d:\usuaris\ernest\owncloud\mp\docencia-mp\practiques\testgraphicsnovallibreria - copia\lib\debug.cpp
+	<cstdio>
+	<cstdarg>
+	"debug.h"
+
+1427020700 d:\usuaris\ernest\owncloud\mp\docencia-mp\practiques\testgraphicsnovallibreria - copia\lib\debug.h
+
+1427631720 source:d:\usuaris\ernest\owncloud\mp\docencia-mp\practiques\testgraphicsnovallibreria - copia\lib\image_png.cpp
+	<cstdlib>
+	<cassert>
+	<png.h>
+	"debug.h"
+	"error.h"
+
+1449107448 d:\usuaris\ernest\owncloud\mp\docencia-mp\practiques\testgraphicsnovallibreria - copia\extlibs\libpng\png.h
+	"pnglibconf.h"
+	"pngconf.h"
+
+1449107448 d:\usuaris\ernest\owncloud\mp\docencia-mp\practiques\testgraphicsnovallibreria - copia\extlibs\libpng\pnglibconf.h
+
+1449107448 d:\usuaris\ernest\owncloud\mp\docencia-mp\practiques\testgraphicsnovallibreria - copia\extlibs\libpng\pngconf.h
+	<limits.h>
+	<stddef.h>
+	<stdio.h>
+	<setjmp.h>
+	<time.h>
+
+1427317720 d:\usuaris\ernest\owncloud\mp\docencia-mp\practiques\testgraphicsnovallibreria - copia\lib\error.h
+	<stdexcept>
+	<sstream>
+	<string>
+
+1425813096 source:d:\usuaris\ernest\owncloud\mp\docencia-mp\practiques\testgraphicsnovallibreria - copia\lib\keyboard.cpp
+	"libreria.h"
+	"keyboard.h"
+	"debug.h"
+
+1427317148 source:d:\usuaris\ernest\owncloud\mp\docencia-mp\practiques\testgraphicsnovallibreria - copia\lib\mouse.cpp
+	"video.h"
+	"mouse.h"
+	"libreria.h"
+
+1452791288 source:d:\usuaris\ernest\owncloud\mp\docencia-mp\practiques\testgraphicsnovallibreria - copia\lib\sound.cpp
+	<SDL.h>
+	<stdlib.h>
+	<math.h>
+	<cassert>
+	"libreria.h"
+	"sound.h"
+	"stb_vorbis.h"
+
+1428143030 source:d:\usuaris\ernest\owncloud\mp\docencia-mp\practiques\testgraphicsnovallibreria - copia\lib\sprites.cpp
+	<cstdlib>
+	<cassert>
+	"image_png.h"
+	"video.h"
+	"sprites.h"
+	"error.h"
+
+1425810642 d:\usuaris\ernest\owncloud\mp\docencia-mp\practiques\testgraphicsnovallibreria - copia\lib\image_png.h
+
+1452791085 source:d:\usuaris\ernest\owncloud\mp\docencia-mp\practiques\testgraphicsnovallibreria - copia\lib\stb_vorbis.cpp
+	"stb_vorbis.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<math.h>
+	<malloc.h>
+
+1428143504 source:d:\usuaris\ernest\owncloud\mp\docencia-mp\practiques\testgraphicsnovallibreria - copia\lib\video.cpp
+	"keyboard.h"
+	"mouse.h"
+	"video.h"
+	"error.h"
+	<iostream>
+	<windows.h>
+
+1427353220 source:d:\usuaris\ernest\owncloud\mp\docencia-mp\practiques\testgraphicsnovallibreria - copia\principal.cpp
+	"Joc.h"
+
+1427016760 source:d:\d1\_docencia\mpgrau\practica15_16\testgraphicsnovallibreria\lib\debug.cpp
+	<cstdio>
+	<cstdarg>
+	"debug.h"
+
+1427020700 d:\d1\_docencia\mpgrau\practica15_16\testgraphicsnovallibreria\lib\debug.h
+
+1427628120 source:d:\d1\_docencia\mpgrau\practica15_16\testgraphicsnovallibreria\lib\image_png.cpp
+	<cstdlib>
+	<cassert>
+	<png.h>
+	"debug.h"
+	"error.h"
+
+1449107448 d:\d1\_docencia\mpgrau\practica15_16\testgraphicsnovallibreria\extlibs\libpng\png.h
+	"pnglibconf.h"
+	"pngconf.h"
+
+1449107448 d:\d1\_docencia\mpgrau\practica15_16\testgraphicsnovallibreria\extlibs\libpng\pnglibconf.h
+
+1449107448 d:\d1\_docencia\mpgrau\practica15_16\testgraphicsnovallibreria\extlibs\libpng\pngconf.h
+	<limits.h>
+	<stddef.h>
+	<stdio.h>
+	<setjmp.h>
+	<time.h>
+
+1427317720 d:\d1\_docencia\mpgrau\practica15_16\testgraphicsnovallibreria\lib\error.h
+	<stdexcept>
+	<sstream>
+	<string>
+
+1425813096 source:d:\d1\_docencia\mpgrau\practica15_16\testgraphicsnovallibreria\lib\keyboard.cpp
+	"libreria.h"
+	"keyboard.h"
+	"debug.h"
+
+1427017208 d:\d1\_docencia\mpgrau\practica15_16\testgraphicsnovallibreria\lib\libreria.h
+	"keyboard.h"
+	"mouse.h"
+	"sprites.h"
+	"video.h"
+	"sound.h"
+	<cstring>
+
+1425989384 d:\d1\_docencia\mpgrau\practica15_16\testgraphicsnovallibreria\lib\keyboard.h
+	<SDL.h>
+	"keyboard_sdl.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica15_16\testgraphicsnovallibreria\extlibs\sdl\include\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica15_16\testgraphicsnovallibreria\extlibs\sdl\include\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica15_16\testgraphicsnovallibreria\extlibs\sdl\include\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<iconv.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica15_16\testgraphicsnovallibreria\extlibs\sdl\include\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_premake.h"
+	"SDL_config_windows.h"
+	"SDL_config_winrt.h"
+	"SDL_config_macosx.h"
+	"SDL_config_iphoneos.h"
+	"SDL_config_android.h"
+	"SDL_config_psp.h"
+	"SDL_config_minimal.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica15_16\testgraphicsnovallibreria\extlibs\sdl\include\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica15_16\testgraphicsnovallibreria\extlibs\sdl\include\begin_code.h
+
+1451736654 d:\d1\_docencia\mpgrau\practica15_16\testgraphicsnovallibreria\extlibs\sdl\include\close_code.h
+
+1451736652 d:\d1\_docencia\mpgrau\practica15_16\testgraphicsnovallibreria\extlibs\sdl\include\sdl_config_windows.h
+	"SDL_platform.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica15_16\testgraphicsnovallibreria\extlibs\sdl\include\sdl_config_winrt.h
+	"SDL_platform.h"
+	<sdkddkver.h>
+
+1451736652 d:\d1\_docencia\mpgrau\practica15_16\testgraphicsnovallibreria\extlibs\sdl\include\sdl_config_macosx.h
+	"SDL_platform.h"
+	<AvailabilityMacros.h>
+
+1451736652 d:\d1\_docencia\mpgrau\practica15_16\testgraphicsnovallibreria\extlibs\sdl\include\sdl_config_iphoneos.h
+	"SDL_platform.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica15_16\testgraphicsnovallibreria\extlibs\sdl\include\sdl_config_android.h
+	"SDL_platform.h"
+	<stdarg.h>
+
+1451736652 d:\d1\_docencia\mpgrau\practica15_16\testgraphicsnovallibreria\extlibs\sdl\include\sdl_config_psp.h
+	"SDL_platform.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica15_16\testgraphicsnovallibreria\extlibs\sdl\include\sdl_config_minimal.h
+	"SDL_platform.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica15_16\testgraphicsnovallibreria\extlibs\sdl\include\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica15_16\testgraphicsnovallibreria\extlibs\sdl\include\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica15_16\testgraphicsnovallibreria\extlibs\sdl\include\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica15_16\testgraphicsnovallibreria\extlibs\sdl\include\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica15_16\testgraphicsnovallibreria\extlibs\sdl\include\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica15_16\testgraphicsnovallibreria\extlibs\sdl\include\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica15_16\testgraphicsnovallibreria\extlibs\sdl\include\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica15_16\testgraphicsnovallibreria\extlibs\sdl\include\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica15_16\testgraphicsnovallibreria\extlibs\sdl\include\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica15_16\testgraphicsnovallibreria\extlibs\sdl\include\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1451967114 d:\d1\_docencia\mpgrau\practica15_16\testgraphicsnovallibreria\extlibs\sdl\include\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1452095010 d:\d1\_docencia\mpgrau\practica15_16\testgraphicsnovallibreria\extlibs\sdl\include\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica15_16\testgraphicsnovallibreria\extlibs\sdl\include\sdl_pixels.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica15_16\testgraphicsnovallibreria\extlibs\sdl\include\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica15_16\testgraphicsnovallibreria\extlibs\sdl\include\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica15_16\testgraphicsnovallibreria\extlibs\sdl\include\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica15_16\testgraphicsnovallibreria\extlibs\sdl\include\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica15_16\testgraphicsnovallibreria\extlibs\sdl\include\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica15_16\testgraphicsnovallibreria\extlibs\sdl\include\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica15_16\testgraphicsnovallibreria\extlibs\sdl\include\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica15_16\testgraphicsnovallibreria\extlibs\sdl\include\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica15_16\testgraphicsnovallibreria\extlibs\sdl\include\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica15_16\testgraphicsnovallibreria\extlibs\sdl\include\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica15_16\testgraphicsnovallibreria\extlibs\sdl\include\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica15_16\testgraphicsnovallibreria\extlibs\sdl\include\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica15_16\testgraphicsnovallibreria\extlibs\sdl\include\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica15_16\testgraphicsnovallibreria\extlibs\sdl\include\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica15_16\testgraphicsnovallibreria\extlibs\sdl\include\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica15_16\testgraphicsnovallibreria\extlibs\sdl\include\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica15_16\testgraphicsnovallibreria\extlibs\sdl\include\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica15_16\testgraphicsnovallibreria\extlibs\sdl\include\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica15_16\testgraphicsnovallibreria\extlibs\sdl\include\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1452174728 d:\d1\_docencia\mpgrau\practica15_16\testgraphicsnovallibreria\extlibs\sdl\include\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica15_16\testgraphicsnovallibreria\extlibs\sdl\include\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica15_16\testgraphicsnovallibreria\extlibs\sdl\include\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica15_16\testgraphicsnovallibreria\extlibs\sdl\include\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1422964674 d:\d1\_docencia\mpgrau\practica15_16\testgraphicsnovallibreria\lib\keyboard_sdl.h
+	"SDL.h"
+
+1425989340 d:\d1\_docencia\mpgrau\practica15_16\testgraphicsnovallibreria\lib\mouse.h
+
+1452791114 d:\d1\_docencia\mpgrau\practica15_16\testgraphicsnovallibreria\lib\sprites.h
+	<SDL.h>
+	<SDL_image.h>
+
+1451767948 d:\d1\_docencia\mpgrau\practica15_16\testgraphicsnovallibreria\extlibs\sdl\include\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1427318266 d:\d1\_docencia\mpgrau\practica15_16\testgraphicsnovallibreria\lib\video.h
+	<SDL.h>
+
+1427319670 d:\d1\_docencia\mpgrau\practica15_16\testgraphicsnovallibreria\lib\sound.h
+	"stb_vorbis.h"
+
+1422964674 d:\d1\_docencia\mpgrau\practica15_16\testgraphicsnovallibreria\lib\stb_vorbis.h
+	<stdio.h>
+
+1427317148 source:d:\d1\_docencia\mpgrau\practica15_16\testgraphicsnovallibreria\lib\mouse.cpp
+	"video.h"
+	"mouse.h"
+	"libreria.h"
+
+1452791288 source:d:\d1\_docencia\mpgrau\practica15_16\testgraphicsnovallibreria\lib\sound.cpp
+	<SDL.h>
+	<stdlib.h>
+	<math.h>
+	<cassert>
+	"libreria.h"
+	"sound.h"
+	"stb_vorbis.h"
+
+1453127813 source:d:\d1\_docencia\mpgrau\practica15_16\testgraphicsnovallibreria\lib\sprites.cpp
+	<cstdlib>
+	<cassert>
+	"image_png.h"
+	"video.h"
+	"sprites.h"
+	"error.h"
+
+1425810642 d:\d1\_docencia\mpgrau\practica15_16\testgraphicsnovallibreria\lib\image_png.h
+
+1452791085 source:d:\d1\_docencia\mpgrau\practica15_16\testgraphicsnovallibreria\lib\stb_vorbis.cpp
+	"stb_vorbis.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<math.h>
+	<malloc.h>
+
+1454600935 source:d:\d1\_docencia\mpgrau\practica15_16\testgraphicsnovallibreria\lib\video.cpp
+	"keyboard.h"
+	"mouse.h"
+	"video.h"
+	"error.h"
+	<iostream>
+	<windows.h>
+
+1455097697 source:d:\d1\_docencia\mpgrau\practica15_16\testgraphicsnovallibreria\principal.cpp
+	"Joc.h"
+
+1455098060 d:\d1\_docencia\mpgrau\practica15_16\testgraphicsnovallibreria\joc.h
+	<stdio.h>
+	<time.h>
+
+1455098225 source:d:\d1\_docencia\mpgrau\practica15_16\testgraphicsnovallibreria\joc.cpp
+	"Joc.h"
+	"lib/libreria.h"
+	<cstdlib>
+
+1455107964 source:d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\exemplellibreriagrafica\joc.cpp
+	"Joc.h"
+	"lib/libreria.h"
+	<cstdlib>
+
+1455109685 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\exemplellibreriagrafica\joc.h
+	<stdio.h>
+	<time.h>
+
+1427017208 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\exemplellibreriagrafica\lib\libreria.h
+	"keyboard.h"
+	"mouse.h"
+	"sprites.h"
+	"video.h"
+	"sound.h"
+	<cstring>
+
+1425989384 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\exemplellibreriagrafica\lib\keyboard.h
+	<SDL.h>
+	"keyboard_sdl.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\exemplellibreriagrafica\extlibs\sdl\include\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\exemplellibreriagrafica\extlibs\sdl\include\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\exemplellibreriagrafica\extlibs\sdl\include\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<iconv.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\exemplellibreriagrafica\extlibs\sdl\include\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_premake.h"
+	"SDL_config_windows.h"
+	"SDL_config_winrt.h"
+	"SDL_config_macosx.h"
+	"SDL_config_iphoneos.h"
+	"SDL_config_android.h"
+	"SDL_config_psp.h"
+	"SDL_config_minimal.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\exemplellibreriagrafica\extlibs\sdl\include\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\exemplellibreriagrafica\extlibs\sdl\include\begin_code.h
+
+1451736654 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\exemplellibreriagrafica\extlibs\sdl\include\close_code.h
+
+1451736652 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\exemplellibreriagrafica\extlibs\sdl\include\sdl_config_windows.h
+	"SDL_platform.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\exemplellibreriagrafica\extlibs\sdl\include\sdl_config_winrt.h
+	"SDL_platform.h"
+	<sdkddkver.h>
+
+1451736652 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\exemplellibreriagrafica\extlibs\sdl\include\sdl_config_macosx.h
+	"SDL_platform.h"
+	<AvailabilityMacros.h>
+
+1451736652 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\exemplellibreriagrafica\extlibs\sdl\include\sdl_config_iphoneos.h
+	"SDL_platform.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\exemplellibreriagrafica\extlibs\sdl\include\sdl_config_android.h
+	"SDL_platform.h"
+	<stdarg.h>
+
+1451736652 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\exemplellibreriagrafica\extlibs\sdl\include\sdl_config_psp.h
+	"SDL_platform.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\exemplellibreriagrafica\extlibs\sdl\include\sdl_config_minimal.h
+	"SDL_platform.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\exemplellibreriagrafica\extlibs\sdl\include\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\exemplellibreriagrafica\extlibs\sdl\include\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\exemplellibreriagrafica\extlibs\sdl\include\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\exemplellibreriagrafica\extlibs\sdl\include\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\exemplellibreriagrafica\extlibs\sdl\include\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\exemplellibreriagrafica\extlibs\sdl\include\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\exemplellibreriagrafica\extlibs\sdl\include\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\exemplellibreriagrafica\extlibs\sdl\include\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\exemplellibreriagrafica\extlibs\sdl\include\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\exemplellibreriagrafica\extlibs\sdl\include\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1451967114 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\exemplellibreriagrafica\extlibs\sdl\include\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1452095010 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\exemplellibreriagrafica\extlibs\sdl\include\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\exemplellibreriagrafica\extlibs\sdl\include\sdl_pixels.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\exemplellibreriagrafica\extlibs\sdl\include\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\exemplellibreriagrafica\extlibs\sdl\include\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\exemplellibreriagrafica\extlibs\sdl\include\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\exemplellibreriagrafica\extlibs\sdl\include\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\exemplellibreriagrafica\extlibs\sdl\include\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\exemplellibreriagrafica\extlibs\sdl\include\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\exemplellibreriagrafica\extlibs\sdl\include\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\exemplellibreriagrafica\extlibs\sdl\include\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\exemplellibreriagrafica\extlibs\sdl\include\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\exemplellibreriagrafica\extlibs\sdl\include\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\exemplellibreriagrafica\extlibs\sdl\include\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\exemplellibreriagrafica\extlibs\sdl\include\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\exemplellibreriagrafica\extlibs\sdl\include\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\exemplellibreriagrafica\extlibs\sdl\include\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\exemplellibreriagrafica\extlibs\sdl\include\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\exemplellibreriagrafica\extlibs\sdl\include\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\exemplellibreriagrafica\extlibs\sdl\include\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\exemplellibreriagrafica\extlibs\sdl\include\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\exemplellibreriagrafica\extlibs\sdl\include\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1452174728 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\exemplellibreriagrafica\extlibs\sdl\include\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\exemplellibreriagrafica\extlibs\sdl\include\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\exemplellibreriagrafica\extlibs\sdl\include\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\exemplellibreriagrafica\extlibs\sdl\include\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1422964674 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\exemplellibreriagrafica\lib\keyboard_sdl.h
+	"SDL.h"
+
+1425989340 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\exemplellibreriagrafica\lib\mouse.h
+
+1452791114 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\exemplellibreriagrafica\lib\sprites.h
+	<SDL.h>
+	<SDL_image.h>
+
+1451767948 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\exemplellibreriagrafica\extlibs\sdl\include\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1427318266 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\exemplellibreriagrafica\lib\video.h
+	<SDL.h>
+
+1427319670 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\exemplellibreriagrafica\lib\sound.h
+	"stb_vorbis.h"
+
+1422964674 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\exemplellibreriagrafica\lib\stb_vorbis.h
+	<stdio.h>
+
+1427016760 source:d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\exemplellibreriagrafica\lib\debug.cpp
+	<cstdio>
+	<cstdarg>
+	"debug.h"
+
+1427020700 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\exemplellibreriagrafica\lib\debug.h
+
+1427628120 source:d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\exemplellibreriagrafica\lib\image_png.cpp
+	<cstdlib>
+	<cassert>
+	<png.h>
+	"debug.h"
+	"error.h"
+
+1449107448 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\exemplellibreriagrafica\extlibs\libpng\png.h
+	"pnglibconf.h"
+	"pngconf.h"
+
+1449107448 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\exemplellibreriagrafica\extlibs\libpng\pnglibconf.h
+
+1449107448 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\exemplellibreriagrafica\extlibs\libpng\pngconf.h
+	<limits.h>
+	<stddef.h>
+	<stdio.h>
+	<setjmp.h>
+	<time.h>
+
+1427317720 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\exemplellibreriagrafica\lib\error.h
+	<stdexcept>
+	<sstream>
+	<string>
+
+1425813096 source:d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\exemplellibreriagrafica\lib\keyboard.cpp
+	"libreria.h"
+	"keyboard.h"
+	"debug.h"
+
+1427317148 source:d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\exemplellibreriagrafica\lib\mouse.cpp
+	"video.h"
+	"mouse.h"
+	"libreria.h"
+
+1452791288 source:d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\exemplellibreriagrafica\lib\sound.cpp
+	<SDL.h>
+	<stdlib.h>
+	<math.h>
+	<cassert>
+	"libreria.h"
+	"sound.h"
+	"stb_vorbis.h"
+
+1453127813 source:d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\exemplellibreriagrafica\lib\sprites.cpp
+	<cstdlib>
+	<cassert>
+	"image_png.h"
+	"video.h"
+	"sprites.h"
+	"error.h"
+
+1425810642 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\exemplellibreriagrafica\lib\image_png.h
+
+1452791085 source:d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\exemplellibreriagrafica\lib\stb_vorbis.cpp
+	"stb_vorbis.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<math.h>
+	<malloc.h>
+
+1455109654 source:d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\exemplellibreriagrafica\lib\video.cpp
+	"keyboard.h"
+	"mouse.h"
+	"video.h"
+	"error.h"
+	<iostream>
+	<windows.h>
+
+1455098266 source:d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\exemplellibreriagrafica\principal.cpp
+	"Joc.h"
+
+1427016760 source:d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\lib\debug.cpp
+	<cstdio>
+	<cstdarg>
+	"debug.h"
+
+1427020700 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\lib\debug.h
+
+1427628120 source:d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\lib\image_png.cpp
+	<cstdlib>
+	<cassert>
+	<png.h>
+	"debug.h"
+	"error.h"
+
+1449107448 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\extlibs\libpng\png.h
+	"pnglibconf.h"
+	"pngconf.h"
+
+1449107448 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\extlibs\libpng\pnglibconf.h
+
+1449107448 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\extlibs\libpng\pngconf.h
+	<limits.h>
+	<stddef.h>
+	<stdio.h>
+	<setjmp.h>
+	<time.h>
+
+1427317720 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\lib\error.h
+	<stdexcept>
+	<sstream>
+	<string>
+
+1425813096 source:d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\lib\keyboard.cpp
+	"libreria.h"
+	"keyboard.h"
+	"debug.h"
+
+1427017208 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\lib\libreria.h
+	"keyboard.h"
+	"mouse.h"
+	"sprites.h"
+	"video.h"
+	"sound.h"
+	<cstring>
+
+1425989384 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\lib\keyboard.h
+	<SDL.h>
+	"keyboard_sdl.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\extlibs\sdl\include\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\extlibs\sdl\include\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\extlibs\sdl\include\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<iconv.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\extlibs\sdl\include\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_premake.h"
+	"SDL_config_windows.h"
+	"SDL_config_winrt.h"
+	"SDL_config_macosx.h"
+	"SDL_config_iphoneos.h"
+	"SDL_config_android.h"
+	"SDL_config_psp.h"
+	"SDL_config_minimal.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\extlibs\sdl\include\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\extlibs\sdl\include\begin_code.h
+
+1451736654 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\extlibs\sdl\include\close_code.h
+
+1451736652 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\extlibs\sdl\include\sdl_config_windows.h
+	"SDL_platform.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\extlibs\sdl\include\sdl_config_winrt.h
+	"SDL_platform.h"
+	<sdkddkver.h>
+
+1451736652 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\extlibs\sdl\include\sdl_config_macosx.h
+	"SDL_platform.h"
+	<AvailabilityMacros.h>
+
+1451736652 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\extlibs\sdl\include\sdl_config_iphoneos.h
+	"SDL_platform.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\extlibs\sdl\include\sdl_config_android.h
+	"SDL_platform.h"
+	<stdarg.h>
+
+1451736652 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\extlibs\sdl\include\sdl_config_psp.h
+	"SDL_platform.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\extlibs\sdl\include\sdl_config_minimal.h
+	"SDL_platform.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\extlibs\sdl\include\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\extlibs\sdl\include\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\extlibs\sdl\include\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\extlibs\sdl\include\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\extlibs\sdl\include\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\extlibs\sdl\include\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\extlibs\sdl\include\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\extlibs\sdl\include\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\extlibs\sdl\include\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\extlibs\sdl\include\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1451967114 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\extlibs\sdl\include\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1452095010 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\extlibs\sdl\include\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\extlibs\sdl\include\sdl_pixels.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\extlibs\sdl\include\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\extlibs\sdl\include\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\extlibs\sdl\include\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\extlibs\sdl\include\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\extlibs\sdl\include\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\extlibs\sdl\include\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\extlibs\sdl\include\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\extlibs\sdl\include\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\extlibs\sdl\include\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\extlibs\sdl\include\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\extlibs\sdl\include\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\extlibs\sdl\include\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\extlibs\sdl\include\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\extlibs\sdl\include\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\extlibs\sdl\include\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\extlibs\sdl\include\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\extlibs\sdl\include\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\extlibs\sdl\include\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\extlibs\sdl\include\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1452174728 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\extlibs\sdl\include\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\extlibs\sdl\include\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\extlibs\sdl\include\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\extlibs\sdl\include\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1422964674 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\lib\keyboard_sdl.h
+	"SDL.h"
+
+1425989340 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\lib\mouse.h
+
+1452791114 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\lib\sprites.h
+	<SDL.h>
+	<SDL_image.h>
+
+1451767948 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\extlibs\sdl\include\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1427318266 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\lib\video.h
+	<SDL.h>
+
+1427319670 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\lib\sound.h
+	"stb_vorbis.h"
+
+1422964674 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\lib\stb_vorbis.h
+	<stdio.h>
+
+1427317148 source:d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\lib\mouse.cpp
+	"video.h"
+	"mouse.h"
+	"libreria.h"
+
+1452791288 source:d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\lib\sound.cpp
+	<SDL.h>
+	<stdlib.h>
+	<math.h>
+	<cassert>
+	"libreria.h"
+	"sound.h"
+	"stb_vorbis.h"
+
+1453127813 source:d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\lib\sprites.cpp
+	<cstdlib>
+	<cassert>
+	"image_png.h"
+	"video.h"
+	"sprites.h"
+	"error.h"
+
+1425810642 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\lib\image_png.h
+
+1452791085 source:d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\lib\stb_vorbis.cpp
+	"stb_vorbis.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<math.h>
+	<malloc.h>
+
+1455109654 source:d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\lib\video.cpp
+	"keyboard.h"
+	"mouse.h"
+	"video.h"
+	"error.h"
+	<iostream>
+	<windows.h>
+
+1455098266 source:d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\principal.cpp
+	"Joc.h"
+
+1455110096 d:\d1\_docencia\mpgrau\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\joc.h
+	<stdio.h>
+	<time.h>
+
+1455110096 source:d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\joc.cpp
+	"Joc.h"
+	"lib/libreria.h"
+	<cstdlib>
+
+1455110096 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\joc.h
+	<stdio.h>
+	<time.h>
+
+1427017208 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\lib\libreria.h
+	"keyboard.h"
+	"mouse.h"
+	"sprites.h"
+	"video.h"
+	"sound.h"
+	<cstring>
+
+1425989384 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\lib\keyboard.h
+	<SDL.h>
+	"keyboard_sdl.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\extlibs\sdl\include\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\extlibs\sdl\include\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\extlibs\sdl\include\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<iconv.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\extlibs\sdl\include\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_premake.h"
+	"SDL_config_windows.h"
+	"SDL_config_winrt.h"
+	"SDL_config_macosx.h"
+	"SDL_config_iphoneos.h"
+	"SDL_config_android.h"
+	"SDL_config_psp.h"
+	"SDL_config_minimal.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\extlibs\sdl\include\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\extlibs\sdl\include\begin_code.h
+
+1451736654 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\extlibs\sdl\include\close_code.h
+
+1451736652 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\extlibs\sdl\include\sdl_config_windows.h
+	"SDL_platform.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\extlibs\sdl\include\sdl_config_winrt.h
+	"SDL_platform.h"
+	<sdkddkver.h>
+
+1451736652 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\extlibs\sdl\include\sdl_config_macosx.h
+	"SDL_platform.h"
+	<AvailabilityMacros.h>
+
+1451736652 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\extlibs\sdl\include\sdl_config_iphoneos.h
+	"SDL_platform.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\extlibs\sdl\include\sdl_config_android.h
+	"SDL_platform.h"
+	<stdarg.h>
+
+1451736652 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\extlibs\sdl\include\sdl_config_psp.h
+	"SDL_platform.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\extlibs\sdl\include\sdl_config_minimal.h
+	"SDL_platform.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\extlibs\sdl\include\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\extlibs\sdl\include\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\extlibs\sdl\include\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\extlibs\sdl\include\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\extlibs\sdl\include\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\extlibs\sdl\include\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\extlibs\sdl\include\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\extlibs\sdl\include\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\extlibs\sdl\include\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\extlibs\sdl\include\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1451967114 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\extlibs\sdl\include\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1452095010 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\extlibs\sdl\include\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\extlibs\sdl\include\sdl_pixels.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\extlibs\sdl\include\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\extlibs\sdl\include\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\extlibs\sdl\include\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\extlibs\sdl\include\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\extlibs\sdl\include\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\extlibs\sdl\include\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\extlibs\sdl\include\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\extlibs\sdl\include\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\extlibs\sdl\include\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\extlibs\sdl\include\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\extlibs\sdl\include\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\extlibs\sdl\include\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\extlibs\sdl\include\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\extlibs\sdl\include\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\extlibs\sdl\include\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\extlibs\sdl\include\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\extlibs\sdl\include\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\extlibs\sdl\include\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\extlibs\sdl\include\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1452174728 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\extlibs\sdl\include\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\extlibs\sdl\include\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\extlibs\sdl\include\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\extlibs\sdl\include\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1422964674 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\lib\keyboard_sdl.h
+	"SDL.h"
+
+1425989340 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\lib\mouse.h
+
+1452791114 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\lib\sprites.h
+	<SDL.h>
+	<SDL_image.h>
+
+1451767948 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\extlibs\sdl\include\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1427318266 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\lib\video.h
+	<SDL.h>
+
+1427319670 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\lib\sound.h
+	"stb_vorbis.h"
+
+1422964674 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\lib\stb_vorbis.h
+	<stdio.h>
+
+1427016760 source:d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\lib\debug.cpp
+	<cstdio>
+	<cstdarg>
+	"debug.h"
+
+1427020700 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\lib\debug.h
+
+1427628120 source:d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\lib\image_png.cpp
+	<cstdlib>
+	<cassert>
+	<png.h>
+	"debug.h"
+	"error.h"
+
+1449107448 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\extlibs\libpng\png.h
+	"pnglibconf.h"
+	"pngconf.h"
+
+1449107448 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\extlibs\libpng\pnglibconf.h
+
+1449107448 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\extlibs\libpng\pngconf.h
+	<limits.h>
+	<stddef.h>
+	<stdio.h>
+	<setjmp.h>
+	<time.h>
+
+1427317720 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\lib\error.h
+	<stdexcept>
+	<sstream>
+	<string>
+
+1425813096 source:d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\lib\keyboard.cpp
+	"libreria.h"
+	"keyboard.h"
+	"debug.h"
+
+1427317148 source:d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\lib\mouse.cpp
+	"video.h"
+	"mouse.h"
+	"libreria.h"
+
+1452791288 source:d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\lib\sound.cpp
+	<SDL.h>
+	<stdlib.h>
+	<math.h>
+	<cassert>
+	"libreria.h"
+	"sound.h"
+	"stb_vorbis.h"
+
+1453127813 source:d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\lib\sprites.cpp
+	<cstdlib>
+	<cassert>
+	"image_png.h"
+	"video.h"
+	"sprites.h"
+	"error.h"
+
+1425810642 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\lib\image_png.h
+
+1452791085 source:d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\lib\stb_vorbis.cpp
+	"stb_vorbis.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<math.h>
+	<malloc.h>
+
+1455109654 source:d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\lib\video.cpp
+	"keyboard.h"
+	"mouse.h"
+	"video.h"
+	"error.h"
+	<iostream>
+	<windows.h>
+
+1455098266 source:d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiants\tetrisgraficsbuit\principal.cpp
+	"Joc.h"
+
+1455110096 source:d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraficsbuit\joc.cpp
+	"Joc.h"
+	"lib/libreria.h"
+	<cstdlib>
+
+1455110096 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraficsbuit\joc.h
+	<stdio.h>
+	<time.h>
+
+1427017208 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraficsbuit\lib\libreria.h
+	"keyboard.h"
+	"mouse.h"
+	"sprites.h"
+	"video.h"
+	"sound.h"
+	<cstring>
+
+1425989384 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraficsbuit\lib\keyboard.h
+	<SDL.h>
+	"keyboard_sdl.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraficsbuit\extlibs\sdl\include\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraficsbuit\extlibs\sdl\include\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraficsbuit\extlibs\sdl\include\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<iconv.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraficsbuit\extlibs\sdl\include\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_premake.h"
+	"SDL_config_windows.h"
+	"SDL_config_winrt.h"
+	"SDL_config_macosx.h"
+	"SDL_config_iphoneos.h"
+	"SDL_config_android.h"
+	"SDL_config_psp.h"
+	"SDL_config_minimal.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraficsbuit\extlibs\sdl\include\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraficsbuit\extlibs\sdl\include\begin_code.h
+
+1451736654 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraficsbuit\extlibs\sdl\include\close_code.h
+
+1451736652 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraficsbuit\extlibs\sdl\include\sdl_config_windows.h
+	"SDL_platform.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraficsbuit\extlibs\sdl\include\sdl_config_winrt.h
+	"SDL_platform.h"
+	<sdkddkver.h>
+
+1451736652 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraficsbuit\extlibs\sdl\include\sdl_config_macosx.h
+	"SDL_platform.h"
+	<AvailabilityMacros.h>
+
+1451736652 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraficsbuit\extlibs\sdl\include\sdl_config_iphoneos.h
+	"SDL_platform.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraficsbuit\extlibs\sdl\include\sdl_config_android.h
+	"SDL_platform.h"
+	<stdarg.h>
+
+1451736652 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraficsbuit\extlibs\sdl\include\sdl_config_psp.h
+	"SDL_platform.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraficsbuit\extlibs\sdl\include\sdl_config_minimal.h
+	"SDL_platform.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraficsbuit\extlibs\sdl\include\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraficsbuit\extlibs\sdl\include\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraficsbuit\extlibs\sdl\include\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraficsbuit\extlibs\sdl\include\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraficsbuit\extlibs\sdl\include\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraficsbuit\extlibs\sdl\include\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraficsbuit\extlibs\sdl\include\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraficsbuit\extlibs\sdl\include\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraficsbuit\extlibs\sdl\include\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraficsbuit\extlibs\sdl\include\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1451967114 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraficsbuit\extlibs\sdl\include\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1452095010 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraficsbuit\extlibs\sdl\include\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraficsbuit\extlibs\sdl\include\sdl_pixels.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraficsbuit\extlibs\sdl\include\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraficsbuit\extlibs\sdl\include\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraficsbuit\extlibs\sdl\include\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraficsbuit\extlibs\sdl\include\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraficsbuit\extlibs\sdl\include\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraficsbuit\extlibs\sdl\include\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraficsbuit\extlibs\sdl\include\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraficsbuit\extlibs\sdl\include\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraficsbuit\extlibs\sdl\include\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraficsbuit\extlibs\sdl\include\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraficsbuit\extlibs\sdl\include\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraficsbuit\extlibs\sdl\include\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraficsbuit\extlibs\sdl\include\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraficsbuit\extlibs\sdl\include\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraficsbuit\extlibs\sdl\include\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraficsbuit\extlibs\sdl\include\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraficsbuit\extlibs\sdl\include\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraficsbuit\extlibs\sdl\include\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraficsbuit\extlibs\sdl\include\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1452174728 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraficsbuit\extlibs\sdl\include\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraficsbuit\extlibs\sdl\include\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraficsbuit\extlibs\sdl\include\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraficsbuit\extlibs\sdl\include\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1422964674 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraficsbuit\lib\keyboard_sdl.h
+	"SDL.h"
+
+1425989340 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraficsbuit\lib\mouse.h
+
+1452791114 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraficsbuit\lib\sprites.h
+	<SDL.h>
+	<SDL_image.h>
+
+1451767948 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraficsbuit\extlibs\sdl\include\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1427318266 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraficsbuit\lib\video.h
+	<SDL.h>
+
+1427319670 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraficsbuit\lib\sound.h
+	"stb_vorbis.h"
+
+1422964674 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraficsbuit\lib\stb_vorbis.h
+	<stdio.h>
+
+1427016760 source:d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraficsbuit\lib\debug.cpp
+	<cstdio>
+	<cstdarg>
+	"debug.h"
+
+1427020700 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraficsbuit\lib\debug.h
+
+1427628120 source:d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraficsbuit\lib\image_png.cpp
+	<cstdlib>
+	<cassert>
+	<png.h>
+	"debug.h"
+	"error.h"
+
+1449107448 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraficsbuit\extlibs\libpng\png.h
+	"pnglibconf.h"
+	"pngconf.h"
+
+1449107448 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraficsbuit\extlibs\libpng\pnglibconf.h
+
+1449107448 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraficsbuit\extlibs\libpng\pngconf.h
+	<limits.h>
+	<stddef.h>
+	<stdio.h>
+	<setjmp.h>
+	<time.h>
+
+1427317720 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraficsbuit\lib\error.h
+	<stdexcept>
+	<sstream>
+	<string>
+
+1425813096 source:d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraficsbuit\lib\keyboard.cpp
+	"libreria.h"
+	"keyboard.h"
+	"debug.h"
+
+1427317148 source:d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraficsbuit\lib\mouse.cpp
+	"video.h"
+	"mouse.h"
+	"libreria.h"
+
+1452791288 source:d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraficsbuit\lib\sound.cpp
+	<SDL.h>
+	<stdlib.h>
+	<math.h>
+	<cassert>
+	"libreria.h"
+	"sound.h"
+	"stb_vorbis.h"
+
+1453127813 source:d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraficsbuit\lib\sprites.cpp
+	<cstdlib>
+	<cassert>
+	"image_png.h"
+	"video.h"
+	"sprites.h"
+	"error.h"
+
+1425810642 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraficsbuit\lib\image_png.h
+
+1452791085 source:d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraficsbuit\lib\stb_vorbis.cpp
+	"stb_vorbis.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<math.h>
+	<malloc.h>
+
+1455109654 source:d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraficsbuit\lib\video.cpp
+	"keyboard.h"
+	"mouse.h"
+	"video.h"
+	"error.h"
+	<iostream>
+	<windows.h>
+
+1455098266 source:d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraficsbuit\principal.cpp
+	"Joc.h"
+
+1455110096 source:d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgrafics\joc.cpp
+	"Joc.h"
+	"lib/libreria.h"
+	<cstdlib>
+
+1455110096 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgrafics\joc.h
+	<stdio.h>
+	<time.h>
+
+1427017208 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgrafics\lib\libreria.h
+	"keyboard.h"
+	"mouse.h"
+	"sprites.h"
+	"video.h"
+	"sound.h"
+	<cstring>
+
+1425989384 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgrafics\lib\keyboard.h
+	<SDL.h>
+	"keyboard_sdl.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgrafics\extlibs\sdl\include\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgrafics\extlibs\sdl\include\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgrafics\extlibs\sdl\include\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<iconv.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgrafics\extlibs\sdl\include\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_premake.h"
+	"SDL_config_windows.h"
+	"SDL_config_winrt.h"
+	"SDL_config_macosx.h"
+	"SDL_config_iphoneos.h"
+	"SDL_config_android.h"
+	"SDL_config_psp.h"
+	"SDL_config_minimal.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgrafics\extlibs\sdl\include\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgrafics\extlibs\sdl\include\begin_code.h
+
+1451736654 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgrafics\extlibs\sdl\include\close_code.h
+
+1451736652 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgrafics\extlibs\sdl\include\sdl_config_windows.h
+	"SDL_platform.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgrafics\extlibs\sdl\include\sdl_config_winrt.h
+	"SDL_platform.h"
+	<sdkddkver.h>
+
+1451736652 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgrafics\extlibs\sdl\include\sdl_config_macosx.h
+	"SDL_platform.h"
+	<AvailabilityMacros.h>
+
+1451736652 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgrafics\extlibs\sdl\include\sdl_config_iphoneos.h
+	"SDL_platform.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgrafics\extlibs\sdl\include\sdl_config_android.h
+	"SDL_platform.h"
+	<stdarg.h>
+
+1451736652 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgrafics\extlibs\sdl\include\sdl_config_psp.h
+	"SDL_platform.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgrafics\extlibs\sdl\include\sdl_config_minimal.h
+	"SDL_platform.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgrafics\extlibs\sdl\include\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgrafics\extlibs\sdl\include\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgrafics\extlibs\sdl\include\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgrafics\extlibs\sdl\include\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgrafics\extlibs\sdl\include\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgrafics\extlibs\sdl\include\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgrafics\extlibs\sdl\include\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgrafics\extlibs\sdl\include\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgrafics\extlibs\sdl\include\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgrafics\extlibs\sdl\include\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1451967114 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgrafics\extlibs\sdl\include\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1452095010 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgrafics\extlibs\sdl\include\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgrafics\extlibs\sdl\include\sdl_pixels.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgrafics\extlibs\sdl\include\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgrafics\extlibs\sdl\include\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgrafics\extlibs\sdl\include\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgrafics\extlibs\sdl\include\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgrafics\extlibs\sdl\include\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgrafics\extlibs\sdl\include\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgrafics\extlibs\sdl\include\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgrafics\extlibs\sdl\include\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgrafics\extlibs\sdl\include\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgrafics\extlibs\sdl\include\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgrafics\extlibs\sdl\include\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgrafics\extlibs\sdl\include\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgrafics\extlibs\sdl\include\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgrafics\extlibs\sdl\include\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgrafics\extlibs\sdl\include\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgrafics\extlibs\sdl\include\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgrafics\extlibs\sdl\include\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgrafics\extlibs\sdl\include\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgrafics\extlibs\sdl\include\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1452174728 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgrafics\extlibs\sdl\include\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgrafics\extlibs\sdl\include\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgrafics\extlibs\sdl\include\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgrafics\extlibs\sdl\include\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1422964674 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgrafics\lib\keyboard_sdl.h
+	"SDL.h"
+
+1425989340 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgrafics\lib\mouse.h
+
+1452791114 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgrafics\lib\sprites.h
+	<SDL.h>
+	<SDL_image.h>
+
+1451767948 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgrafics\extlibs\sdl\include\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1427318266 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgrafics\lib\video.h
+	<SDL.h>
+
+1427319670 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgrafics\lib\sound.h
+	"stb_vorbis.h"
+
+1422964674 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgrafics\lib\stb_vorbis.h
+	<stdio.h>
+
+1427016760 source:d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgrafics\lib\debug.cpp
+	<cstdio>
+	<cstdarg>
+	"debug.h"
+
+1427020700 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgrafics\lib\debug.h
+
+1427628120 source:d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgrafics\lib\image_png.cpp
+	<cstdlib>
+	<cassert>
+	<png.h>
+	"debug.h"
+	"error.h"
+
+1449107448 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgrafics\extlibs\libpng\png.h
+	"pnglibconf.h"
+	"pngconf.h"
+
+1449107448 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgrafics\extlibs\libpng\pnglibconf.h
+
+1449107448 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgrafics\extlibs\libpng\pngconf.h
+	<limits.h>
+	<stddef.h>
+	<stdio.h>
+	<setjmp.h>
+	<time.h>
+
+1427317720 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgrafics\lib\error.h
+	<stdexcept>
+	<sstream>
+	<string>
+
+1425813096 source:d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgrafics\lib\keyboard.cpp
+	"libreria.h"
+	"keyboard.h"
+	"debug.h"
+
+1427317148 source:d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgrafics\lib\mouse.cpp
+	"video.h"
+	"mouse.h"
+	"libreria.h"
+
+1452791288 source:d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgrafics\lib\sound.cpp
+	<SDL.h>
+	<stdlib.h>
+	<math.h>
+	<cassert>
+	"libreria.h"
+	"sound.h"
+	"stb_vorbis.h"
+
+1453127813 source:d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgrafics\lib\sprites.cpp
+	<cstdlib>
+	<cassert>
+	"image_png.h"
+	"video.h"
+	"sprites.h"
+	"error.h"
+
+1425810642 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgrafics\lib\image_png.h
+
+1452791085 source:d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgrafics\lib\stb_vorbis.cpp
+	"stb_vorbis.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<math.h>
+	<malloc.h>
+
+1455109654 source:d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgrafics\lib\video.cpp
+	"keyboard.h"
+	"mouse.h"
+	"video.h"
+	"error.h"
+	<iostream>
+	<windows.h>
+
+1455098266 source:d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgrafics\principal.cpp
+	"Joc.h"
+
+1455110096 source:d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraphics\joc.cpp
+	"Joc.h"
+	"lib/libreria.h"
+	<cstdlib>
+
+1455110096 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraphics\joc.h
+	<stdio.h>
+	<time.h>
+
+1427017208 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraphics\lib\libreria.h
+	"keyboard.h"
+	"mouse.h"
+	"sprites.h"
+	"video.h"
+	"sound.h"
+	<cstring>
+
+1425989384 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraphics\lib\keyboard.h
+	<SDL.h>
+	"keyboard_sdl.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraphics\extlibs\sdl\include\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraphics\extlibs\sdl\include\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraphics\extlibs\sdl\include\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<iconv.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraphics\extlibs\sdl\include\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_premake.h"
+	"SDL_config_windows.h"
+	"SDL_config_winrt.h"
+	"SDL_config_macosx.h"
+	"SDL_config_iphoneos.h"
+	"SDL_config_android.h"
+	"SDL_config_psp.h"
+	"SDL_config_minimal.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraphics\extlibs\sdl\include\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraphics\extlibs\sdl\include\begin_code.h
+
+1451736654 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraphics\extlibs\sdl\include\close_code.h
+
+1451736652 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraphics\extlibs\sdl\include\sdl_config_windows.h
+	"SDL_platform.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraphics\extlibs\sdl\include\sdl_config_winrt.h
+	"SDL_platform.h"
+	<sdkddkver.h>
+
+1451736652 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraphics\extlibs\sdl\include\sdl_config_macosx.h
+	"SDL_platform.h"
+	<AvailabilityMacros.h>
+
+1451736652 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraphics\extlibs\sdl\include\sdl_config_iphoneos.h
+	"SDL_platform.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraphics\extlibs\sdl\include\sdl_config_android.h
+	"SDL_platform.h"
+	<stdarg.h>
+
+1451736652 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraphics\extlibs\sdl\include\sdl_config_psp.h
+	"SDL_platform.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraphics\extlibs\sdl\include\sdl_config_minimal.h
+	"SDL_platform.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraphics\extlibs\sdl\include\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraphics\extlibs\sdl\include\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraphics\extlibs\sdl\include\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraphics\extlibs\sdl\include\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraphics\extlibs\sdl\include\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraphics\extlibs\sdl\include\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraphics\extlibs\sdl\include\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraphics\extlibs\sdl\include\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraphics\extlibs\sdl\include\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraphics\extlibs\sdl\include\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1451967114 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraphics\extlibs\sdl\include\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1452095010 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraphics\extlibs\sdl\include\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraphics\extlibs\sdl\include\sdl_pixels.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraphics\extlibs\sdl\include\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraphics\extlibs\sdl\include\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraphics\extlibs\sdl\include\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraphics\extlibs\sdl\include\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraphics\extlibs\sdl\include\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraphics\extlibs\sdl\include\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraphics\extlibs\sdl\include\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraphics\extlibs\sdl\include\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraphics\extlibs\sdl\include\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraphics\extlibs\sdl\include\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraphics\extlibs\sdl\include\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraphics\extlibs\sdl\include\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraphics\extlibs\sdl\include\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraphics\extlibs\sdl\include\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736652 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraphics\extlibs\sdl\include\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraphics\extlibs\sdl\include\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraphics\extlibs\sdl\include\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraphics\extlibs\sdl\include\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraphics\extlibs\sdl\include\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1452174728 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraphics\extlibs\sdl\include\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraphics\extlibs\sdl\include\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraphics\extlibs\sdl\include\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraphics\extlibs\sdl\include\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1422964674 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraphics\lib\keyboard_sdl.h
+	"SDL.h"
+
+1425989340 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraphics\lib\mouse.h
+
+1452791114 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraphics\lib\sprites.h
+	<SDL.h>
+	<SDL_image.h>
+
+1451767948 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraphics\extlibs\sdl\include\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1427318266 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraphics\lib\video.h
+	<SDL.h>
+
+1427319670 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraphics\lib\sound.h
+	"stb_vorbis.h"
+
+1422964674 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraphics\lib\stb_vorbis.h
+	<stdio.h>
+
+1427016760 source:d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraphics\lib\debug.cpp
+	<cstdio>
+	<cstdarg>
+	"debug.h"
+
+1427020700 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraphics\lib\debug.h
+
+1427628120 source:d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraphics\lib\image_png.cpp
+	<cstdlib>
+	<cassert>
+	<png.h>
+	"debug.h"
+	"error.h"
+
+1449107448 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraphics\extlibs\libpng\png.h
+	"pnglibconf.h"
+	"pngconf.h"
+
+1449107448 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraphics\extlibs\libpng\pnglibconf.h
+
+1449107448 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraphics\extlibs\libpng\pngconf.h
+	<limits.h>
+	<stddef.h>
+	<stdio.h>
+	<setjmp.h>
+	<time.h>
+
+1427317720 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraphics\lib\error.h
+	<stdexcept>
+	<sstream>
+	<string>
+
+1425813096 source:d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraphics\lib\keyboard.cpp
+	"libreria.h"
+	"keyboard.h"
+	"debug.h"
+
+1427317148 source:d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraphics\lib\mouse.cpp
+	"video.h"
+	"mouse.h"
+	"libreria.h"
+
+1452791288 source:d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraphics\lib\sound.cpp
+	<SDL.h>
+	<stdlib.h>
+	<math.h>
+	<cassert>
+	"libreria.h"
+	"sound.h"
+	"stb_vorbis.h"
+
+1453127813 source:d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraphics\lib\sprites.cpp
+	<cstdlib>
+	<cassert>
+	"image_png.h"
+	"video.h"
+	"sprites.h"
+	"error.h"
+
+1425810642 d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraphics\lib\image_png.h
+
+1452791085 source:d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraphics\lib\stb_vorbis.cpp
+	"stb_vorbis.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<math.h>
+	<malloc.h>
+
+1455109654 source:d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraphics\lib\video.cpp
+	"keyboard.h"
+	"mouse.h"
+	"video.h"
+	"error.h"
+	<iostream>
+	<windows.h>
+
+1455098266 source:d:\d1\_docencia\mpgrau\practica\practica15_16\mp\primerasesio\estudiantsdef\tetrisgraphics\principal.cpp
+	"Joc.h"
+
+1458395714 source:c:\users\tantra\desktop\testgrafics\tetrisgraphics\joc.cpp
+	"Joc.h"
+	"lib/libreria.h"
+	<cstdlib>
+
+1458396056 c:\users\tantra\desktop\testgrafics\tetrisgraphics\joc.h
+	<conio.h>
+	<stdio.h>
+	<time.h>
+
+1427017208 c:\users\tantra\desktop\testgrafics\tetrisgraphics\lib\libreria.h
+	"keyboard.h"
+	"mouse.h"
+	"sprites.h"
+	"video.h"
+	"sound.h"
+	<cstring>
+
+1425989384 c:\users\tantra\desktop\testgrafics\tetrisgraphics\lib\keyboard.h
+	<SDL.h>
+	"keyboard_sdl.h"
+
+1451736652 c:\users\tantra\desktop\testgrafics\tetrisgraphics\extlibs\sdl\include\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 c:\users\tantra\desktop\testgrafics\tetrisgraphics\extlibs\sdl\include\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 c:\users\tantra\desktop\testgrafics\tetrisgraphics\extlibs\sdl\include\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<iconv.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1451736652 c:\users\tantra\desktop\testgrafics\tetrisgraphics\extlibs\sdl\include\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_premake.h"
+	"SDL_config_windows.h"
+	"SDL_config_winrt.h"
+	"SDL_config_macosx.h"
+	"SDL_config_iphoneos.h"
+	"SDL_config_android.h"
+	"SDL_config_psp.h"
+	"SDL_config_minimal.h"
+
+1451736654 c:\users\tantra\desktop\testgrafics\tetrisgraphics\extlibs\sdl\include\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 c:\users\tantra\desktop\testgrafics\tetrisgraphics\extlibs\sdl\include\begin_code.h
+
+1451736654 c:\users\tantra\desktop\testgrafics\tetrisgraphics\extlibs\sdl\include\close_code.h
+
+1451736652 c:\users\tantra\desktop\testgrafics\tetrisgraphics\extlibs\sdl\include\sdl_config_windows.h
+	"SDL_platform.h"
+
+1451736652 c:\users\tantra\desktop\testgrafics\tetrisgraphics\extlibs\sdl\include\sdl_config_winrt.h
+	"SDL_platform.h"
+	<sdkddkver.h>
+
+1451736652 c:\users\tantra\desktop\testgrafics\tetrisgraphics\extlibs\sdl\include\sdl_config_macosx.h
+	"SDL_platform.h"
+	<AvailabilityMacros.h>
+
+1451736652 c:\users\tantra\desktop\testgrafics\tetrisgraphics\extlibs\sdl\include\sdl_config_iphoneos.h
+	"SDL_platform.h"
+
+1451736652 c:\users\tantra\desktop\testgrafics\tetrisgraphics\extlibs\sdl\include\sdl_config_android.h
+	"SDL_platform.h"
+	<stdarg.h>
+
+1451736652 c:\users\tantra\desktop\testgrafics\tetrisgraphics\extlibs\sdl\include\sdl_config_psp.h
+	"SDL_platform.h"
+
+1451736652 c:\users\tantra\desktop\testgrafics\tetrisgraphics\extlibs\sdl\include\sdl_config_minimal.h
+	"SDL_platform.h"
+
+1451736652 c:\users\tantra\desktop\testgrafics\tetrisgraphics\extlibs\sdl\include\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1451736652 c:\users\tantra\desktop\testgrafics\tetrisgraphics\extlibs\sdl\include\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1451736652 c:\users\tantra\desktop\testgrafics\tetrisgraphics\extlibs\sdl\include\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736652 c:\users\tantra\desktop\testgrafics\tetrisgraphics\extlibs\sdl\include\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736652 c:\users\tantra\desktop\testgrafics\tetrisgraphics\extlibs\sdl\include\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 c:\users\tantra\desktop\testgrafics\tetrisgraphics\extlibs\sdl\include\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 c:\users\tantra\desktop\testgrafics\tetrisgraphics\extlibs\sdl\include\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1451736654 c:\users\tantra\desktop\testgrafics\tetrisgraphics\extlibs\sdl\include\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736652 c:\users\tantra\desktop\testgrafics\tetrisgraphics\extlibs\sdl\include\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736652 c:\users\tantra\desktop\testgrafics\tetrisgraphics\extlibs\sdl\include\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1451967114 c:\users\tantra\desktop\testgrafics\tetrisgraphics\extlibs\sdl\include\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1452095010 c:\users\tantra\desktop\testgrafics\tetrisgraphics\extlibs\sdl\include\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 c:\users\tantra\desktop\testgrafics\tetrisgraphics\extlibs\sdl\include\sdl_pixels.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 c:\users\tantra\desktop\testgrafics\tetrisgraphics\extlibs\sdl\include\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 c:\users\tantra\desktop\testgrafics\tetrisgraphics\extlibs\sdl\include\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736652 c:\users\tantra\desktop\testgrafics\tetrisgraphics\extlibs\sdl\include\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 c:\users\tantra\desktop\testgrafics\tetrisgraphics\extlibs\sdl\include\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 c:\users\tantra\desktop\testgrafics\tetrisgraphics\extlibs\sdl\include\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1451736654 c:\users\tantra\desktop\testgrafics\tetrisgraphics\extlibs\sdl\include\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1451736654 c:\users\tantra\desktop\testgrafics\tetrisgraphics\extlibs\sdl\include\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736652 c:\users\tantra\desktop\testgrafics\tetrisgraphics\extlibs\sdl\include\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736652 c:\users\tantra\desktop\testgrafics\tetrisgraphics\extlibs\sdl\include\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 c:\users\tantra\desktop\testgrafics\tetrisgraphics\extlibs\sdl\include\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1451736652 c:\users\tantra\desktop\testgrafics\tetrisgraphics\extlibs\sdl\include\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 c:\users\tantra\desktop\testgrafics\tetrisgraphics\extlibs\sdl\include\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736652 c:\users\tantra\desktop\testgrafics\tetrisgraphics\extlibs\sdl\include\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736652 c:\users\tantra\desktop\testgrafics\tetrisgraphics\extlibs\sdl\include\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736652 c:\users\tantra\desktop\testgrafics\tetrisgraphics\extlibs\sdl\include\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 c:\users\tantra\desktop\testgrafics\tetrisgraphics\extlibs\sdl\include\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 c:\users\tantra\desktop\testgrafics\tetrisgraphics\extlibs\sdl\include\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 c:\users\tantra\desktop\testgrafics\tetrisgraphics\extlibs\sdl\include\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 c:\users\tantra\desktop\testgrafics\tetrisgraphics\extlibs\sdl\include\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1452174728 c:\users\tantra\desktop\testgrafics\tetrisgraphics\extlibs\sdl\include\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 c:\users\tantra\desktop\testgrafics\tetrisgraphics\extlibs\sdl\include\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 c:\users\tantra\desktop\testgrafics\tetrisgraphics\extlibs\sdl\include\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451736654 c:\users\tantra\desktop\testgrafics\tetrisgraphics\extlibs\sdl\include\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1422964674 c:\users\tantra\desktop\testgrafics\tetrisgraphics\lib\keyboard_sdl.h
+	"SDL.h"
+
+1425989340 c:\users\tantra\desktop\testgrafics\tetrisgraphics\lib\mouse.h
+
+1452791114 c:\users\tantra\desktop\testgrafics\tetrisgraphics\lib\sprites.h
+	<SDL.h>
+	<SDL_image.h>
+
+1451767948 c:\users\tantra\desktop\testgrafics\tetrisgraphics\extlibs\sdl\include\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1427318266 c:\users\tantra\desktop\testgrafics\tetrisgraphics\lib\video.h
+	<SDL.h>
+
+1427319670 c:\users\tantra\desktop\testgrafics\tetrisgraphics\lib\sound.h
+	"stb_vorbis.h"
+
+1422964674 c:\users\tantra\desktop\testgrafics\tetrisgraphics\lib\stb_vorbis.h
+	<stdio.h>
+
+1427016760 source:c:\users\tantra\desktop\testgrafics\tetrisgraphics\lib\debug.cpp
+	<cstdio>
+	<cstdarg>
+	"debug.h"
+
+1427020700 c:\users\tantra\desktop\testgrafics\tetrisgraphics\lib\debug.h
+
+1427631720 source:c:\users\tantra\desktop\testgrafics\tetrisgraphics\lib\image_png.cpp
+	<cstdlib>
+	<cassert>
+	<png.h>
+	"debug.h"
+	"error.h"
+
+1449107448 c:\users\tantra\desktop\testgrafics\tetrisgraphics\extlibs\libpng\png.h
+	"pnglibconf.h"
+	"pngconf.h"
+
+1449107448 c:\users\tantra\desktop\testgrafics\tetrisgraphics\extlibs\libpng\pnglibconf.h
+
+1449107448 c:\users\tantra\desktop\testgrafics\tetrisgraphics\extlibs\libpng\pngconf.h
+	<limits.h>
+	<stddef.h>
+	<stdio.h>
+	<setjmp.h>
+	<time.h>
+
+1427317720 c:\users\tantra\desktop\testgrafics\tetrisgraphics\lib\error.h
+	<stdexcept>
+	<sstream>
+	<string>
+
+1425813096 source:c:\users\tantra\desktop\testgrafics\tetrisgraphics\lib\keyboard.cpp
+	"libreria.h"
+	"keyboard.h"
+	"debug.h"
+
+1427317148 source:c:\users\tantra\desktop\testgrafics\tetrisgraphics\lib\mouse.cpp
+	"video.h"
+	"mouse.h"
+	"libreria.h"
+
+1452791288 source:c:\users\tantra\desktop\testgrafics\tetrisgraphics\lib\sound.cpp
+	<SDL.h>
+	<stdlib.h>
+	<math.h>
+	<cassert>
+	"libreria.h"
+	"sound.h"
+	"stb_vorbis.h"
+
+1453127813 source:c:\users\tantra\desktop\testgrafics\tetrisgraphics\lib\sprites.cpp
+	<cstdlib>
+	<cassert>
+	"image_png.h"
+	"video.h"
+	"sprites.h"
+	"error.h"
+
+1425810642 c:\users\tantra\desktop\testgrafics\tetrisgraphics\lib\image_png.h
+
+1452791085 source:c:\users\tantra\desktop\testgrafics\tetrisgraphics\lib\stb_vorbis.cpp
+	"stb_vorbis.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<math.h>
+	<malloc.h>
+
+1455109654 source:c:\users\tantra\desktop\testgrafics\tetrisgraphics\lib\video.cpp
+	"keyboard.h"
+	"mouse.h"
+	"video.h"
+	"error.h"
+	<iostream>
+	<windows.h>
+
+1458395135 source:c:\users\tantra\desktop\testgrafics\tetrisgraphics\principal.cpp
+	"Menu.h"
+	"Joc.h"
+	"GestioResultats.h"
+	<conio.h>
+
+1452769328 c:\users\tantra\desktop\testgrafics\tetrisgraphics\menu.h
+	<stdio.h>
+	<stdlib.h>
+
+1452773894 c:\users\tantra\desktop\testgrafics\tetrisgraphics\gestioresultats.h
+
+1452777216 source:c:\users\tantra\desktop\testgrafics\tetrisgraphics\gestioresultats.cpp
+	"GestioResultats.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1452769259 source:c:\users\tantra\desktop\testgrafics\tetrisgraphics\menu.cpp
+	"Menu.h"
+
